@@ -1,0 +1,88 @@
+Grain
+
+wheat, rye, oats, corn, rice;
+
+Grain products
+
+bakery goods, bread, rolls, cakes, cookies, pies;
+
+cereal, corn flakes, oat flakes, popcorn;
+
+pasta, macaroni, noodles, spaghetti;
+
+Bread
+
+white bread, whole-wheat bread, rye bread;
+
+Rolls, buns
+
+sesame roll, cinnamon roll, hamburger bun, hot dog bun;
+
+Cakes
+
+birthday cake, wedding cake, Christmas cake, chocolate cake, coffee cake;
+
+Cookies and crackers
+
+oatmeal cookie, chocolate cookie, crackers, biscuits, toast;
+
+Pastry
+
+apple pie, meat pie, pizza, pancake, doughnut, muffin;
+
+Meat and meat products
+
+beef, pork, veal, lamb;
+
+beefsteak, roast beef, ground beef, hamburgers, pork chops, lamb chops;
+
+ham, bacon, sausage, hot dogs;
+Chicken, turkey
+whole chicken, chicken leg, drumstick, chicken breast, turkey breast; eggs;
+Fish and fish products
+salmon, trout, cod, tuna, sole;
+fish steak, fish fillet, smoked fish, caviar;
+Seafood
+shrimp, crab, oysters;
+Dairy products
+milk, yogurt, cream, sour cream, butter;
+cottage cheese, cream cheese;
+Cheese
+Swiss cheese, Parmesan, Cheddar, Mozzarella, Roquefort, blue cheese;
+Ice cream
+ice cream, vanilla ice cream, chocolate ice cream;
+Fruit
+apple, pear, apricot, peach, nectarine, plum, grapes, cherry, sweet cherry;
+lemon, orange, tangerine, grapefruit;
+banana, kiwi, pineapple; melon, watermelon;
+Berries
+strawberry, blueberry, cranberry, raspberry;
+Dried fruit
+dried apricots, raisins, figs, prunes, dates;
+Nuts
+hazelnuts, walnuts, almonds, peanuts;
+Preserves
+strawberry jam, raspberry jam, cranberry jam, honey, maple syrup;
+Vegetables
+tomato, cucumber, onion, garlic, sweet pepper;
+cabbage, cauliflower, lettuce, spinach;
+carrots, beets, potatoes, mushrooms;
+Peas, beans, corn
+peas, green peas, beans, string beans, kidney beans, corn;
+Herbs and spices
+dill, parsley, mint, pepper, salt, mustard, garlic;
+Fruit juice
+apple juice, orange juice, grapefruit juice, tomato juice;
+Beverages and drinks
+tea, coffee, milk, cocoa, hot chocolate, mineral water, soft drinks;
+Alcoholic drinks
+beer, red wine, white wine, champagne;
+vodka, cognac, brandy, whisky; cocktails;
+Sauces
+tomato sauce, ketchup, meat sauce, spaghetti sauce, hot sauce;
+Salad dressing
+Russian dressing, Italian dressing, French dressing, mayonnaise;
+Vegetable oil
+olive oil, corn oil, sunflower seed oil;
+Sweets and chocolate
+sweets, caramels, chocolate candies, chocolate.
